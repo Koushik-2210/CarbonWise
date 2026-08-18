@@ -1,0 +1,17 @@
+# Competition datasets
+*.csv
+
+# CatBoost generated files
+catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+*.cbm
+catboost_info/
+*.csvgit 
